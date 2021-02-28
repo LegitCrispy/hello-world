@@ -1,7 +1,5 @@
 # hello-world
 
-Hi,
+CSE 360 Hello World git demo
 
-I am testing to see if I can do this right, I think I can!
-
-Beginner learning repositories
+Kevin Mendoza Ramirez
