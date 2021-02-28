@@ -1,2 +1,5 @@
 # hello-world
-Beginner learning repositories
+
+CSE 360 Hello World git demo
+
+Kevin Mendoza Ramirez
